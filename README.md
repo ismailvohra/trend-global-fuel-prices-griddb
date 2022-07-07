@@ -1,5 +1,4 @@
 # Analyzing-the-trend-of-global-fluctuations-in-fuel-prices-using-GridDB
-**Introduction:**
 
 Energy is one of the most crucial factors for a wide range of businesses, and the abrupt increase in fuel prices has had an effect on the global economy. Energy costs significantly contribute to the decades-high inflation rates being observed as prices for a variety of goods and services rise. Gas prices fluctuate with the price of crude oil, though not always promptly or to the same degree. Oil is a commodity that is traded globally, so supply and demand on a global level primarily determine its price. When supply outpaces demand, prices fall. In contrast, when demand outpaces supply, prices rise.
 
