@@ -52,7 +52,7 @@ const store = factory.getStore({
     "port": 31999,
     "clusterName": "defaultCluster",
     "username": "admin",
-    "password": "Ilikefurywarrior123"
+    "password": "admin"
 });
 
 const conInfo = new griddb.ContainerInfo({
